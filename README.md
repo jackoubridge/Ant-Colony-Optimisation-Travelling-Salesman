@@ -1,4 +1,4 @@
-### Ant Colony Optimisation solution for the Travelling Salesman Problem.
+## Ant Colony Optimisation solution for the Travelling Salesman Problem
 
 Distances matrix randomly generated on each run, with specified number of cities.
 
