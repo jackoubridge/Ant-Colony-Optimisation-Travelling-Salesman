@@ -32,6 +32,9 @@ def GeneratePath(distances, pheromones, start_node):
 
         current_node = next_node
 
+    # Must return to start node
+    path.append(start_node)
+
     return path
 
 def GetFitness(path, distances):
